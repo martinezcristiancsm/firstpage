@@ -1,0 +1,17 @@
+IDEAS PROGRAMACION
+
+PROGRAMAR UN SYNTH ONLINE
+//-----------------------------------
+3 examenes integradores por modulo
+Todos deben ser aprobados.
+
+
+
+Modulo 1:
+Tim Berners Lee
+whatwg.org
+
+html 
+index
+head incorpora la meta informacion que le damos a los motores de busqueda 
+body contiene lo que ve el usuario, con lo que puede interactuar, es el cuerpo del buscador  
