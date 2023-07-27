@@ -41,7 +41,7 @@ body{
     padding: 20px;
 }
 
-.modal-content h2{
+.modal-content {
     margin-bottom: 20px;
 }
 
@@ -55,13 +55,11 @@ body{
     padding: 8px;
 }
 
-.close-modal-toggle{
-    display: none;
-}
 .close-modal-btn{
     position: absolute;
     top: 10px;
     right: 10px;
     cursor: pointer;
     font-weight: bold;
+
 }
